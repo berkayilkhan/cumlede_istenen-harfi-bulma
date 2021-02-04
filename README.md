@@ -1,1 +1,1 @@
-# istenen-harfi-bulma
+# kullanici tarafindan girilen cumlede istenen harfi bulan program
